@@ -1,0 +1,1 @@
+It works by user inputing a number and then that number will multiple n amount of times. It starts from a value of 1 and then increases for every multiplication. For example, if n = 4 this will happen: 4! = 1 * 2 * 3 * 4 = 24! 
